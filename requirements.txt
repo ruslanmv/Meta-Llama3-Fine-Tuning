@@ -1,0 +1,6 @@
+git+https://github.com/huggingface/transformers.git@main#egg=transformers
+bitsandbytes
+git+https://github.com/huggingface/peft.git@4c611f4#egg=peft
+datasets==2.10.1
+wandb
+scipy
